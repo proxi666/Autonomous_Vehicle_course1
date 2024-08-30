@@ -39,5 +39,10 @@ Open the notebook in a Jupyter environment and execute the cells to train and ev
 
 
 
+### Installation
+
 To run the code in this repository, clone the repository and install the required dependencies. For Python scripts and notebooks, you can use the following command to install the necessary libraries:
-'''pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
+
