@@ -36,3 +36,8 @@ This Jupyter Notebook provides an implementation for recognizing handwritten dig
 
 **Usage**:  
 Open the notebook in a Jupyter environment and execute the cells to train and evaluate the model on the MNIST dataset. Required libraries like Keras or TensorFlow should be installed prior to running the notebook.
+
+
+
+To run the code in this repository, clone the repository and install the required dependencies. For Python scripts and notebooks, you can use the following command to install the necessary libraries:
+'''pip install -r requirements.txt
